@@ -4,7 +4,7 @@ The repository shows the fundamental concepts of deep learning, and there are so
 
 ## Artificial Intelligence v.s Machine Learning v.s Deep Learning
 
-![alt ai_ml_dl_difference](./reports/figures/ai_ml_dl_difference.png)
+![alt ai_ml_dl_difference](./reports/figures/ai_ml_dl_differences.png)
 
 **Deep Learning $\subseteq$ Machine Learning $\subseteq$ Artificial Intelligence**
 
@@ -42,4 +42,4 @@ Deep learning is a young subfield of artificial intelligence based on artificial
 | Correlations         | Make simple, linear correlations                      | Makes non-linear, complex correlations                  |
 | Hardware Requirement | Can train on a CPU                                    | Needs a specialized GPU to train                        |
 
-> Please refer to the [deep learning docs](./docs/DeepLearning.md) to get more information about deep learning.
+> Please refer to the [docs folder](./docs) to get more information about deep learning.
