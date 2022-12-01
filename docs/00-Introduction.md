@@ -22,7 +22,7 @@
 
 ### 1. Data Collection
 
-### 2. Feature Engineering
+### 2. Features Engineering
 
 - Data features determine the upper bound of the model
 - Preprocessing and features extraction are the core
@@ -32,10 +32,10 @@
 
 ![features_extraction_methodology](../reports/figures/features_extraction_methodology.png)
 
-Traditional features
+##### Traditional Methodology of Features Extraction
 
 ![traditional_features_extraction](../reports/figures/traditional_features_extraction.png)
 
-### 3. Build Model
+### 3. Model Building
 
 ### 4. Evaluation and Application
